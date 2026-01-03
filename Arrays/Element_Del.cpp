@@ -1,3 +1,18 @@
+/*
+        We use a swap-with-last approach.
+        If nums[i] == val:
+        - Replace it with the last element
+        - Reduce the effective size of the array (n--)
+        - Do NOT increment i, because the new element
+          at index i must be checked again
+
+        If nums[i] != val:
+        - Move to the next index
+
+        Time Complexity: O(n)
+        Space Complexity: O(1)
+    */
+
 #include <iostream>
 using namespace std;
 
