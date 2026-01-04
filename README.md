@@ -11,22 +11,6 @@ The goal of this repository is to:
 
 ---
 
-## 📁 Repository Structure
-DSA-with-Cpp/
-│
-├── Arrays/
-│ ├── DNF_Algorithm.cpp
-│ ├── Pair_Sum.cpp
-│ └── ... (more array problems)
-│
-├── certifications/
-│ └── Deloitte_completion_certificate.pdf
-│
-└── README.md
-
-
----
-
 ## 📌 Topics Covered
 
 - Arrays
